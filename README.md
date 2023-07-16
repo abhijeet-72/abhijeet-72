@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1hvPYW5cLOBVdRSkfNQ5_JpsgmYac3QjX/view?usp=drive_link)
+![logo](https://github.com/abhijeet-72/abhijeet-72/blob/main/DA.gif)
 
 <h1 align="center">Hello everyone 👋, I'm Abhijeet..</h1>
 <h3 align="center">An enthusiastic Data Analyst from India</h3>
