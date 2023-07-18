@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-72&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-72" /> </p>
 
-- 🌱 I’m currently learning **Power BI and Statistics.**
+- 🌱 I am presently engaged in actively acquiring practical proficiency in both **Power BI** and **Python**, two highly regarded tools within the realm of **Data Analytics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
